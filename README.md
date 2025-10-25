@@ -1,4 +1,4 @@
-# 🧠 AI Resume Quality Checker using Hugging Face + LangChain + Falcon 3B
+# AI Resume Quality Checker using Hugging Face + LangChain + Falcon 3B
 
 An open-source **AI-powered Resume Quality Checker** that uses **Hugging Face NLP models** and **LangChain** to automatically evaluate resumes against a **Data Analyst job profile**.
 
@@ -6,7 +6,7 @@ It extracts skills, compares them to an ideal benchmark list, and generates feed
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Extracts resume text (PDF/Text)  
 ✅ Detects skills using `yashpwr/resume-ner-bert-v2` (Hugging Face NER model)  
@@ -17,5 +17,4 @@ It extracts skills, compares them to an ideal benchmark list, and generates feed
 
 ---
 
-## 🧩 Architecture Overview
 
